@@ -1,0 +1,25 @@
+This is a repository for the project euler problems 71 - 80.
+
+http://projecteuler.net/
+
+The programs are written in guile 2.0, a version of scheme, to
+encourage interest in this nice language.
+
+They can be used as a template or library for commonly used
+functions, (prime?, split-digits, ...)
+
+Simple unit tests are included and run each time the program
+is run, and help to give confidence that the programs run
+correctly.  Example results are reproduced from the problem
+statement to also show that the algorithms are ok.
+
+These programs are dedicated to the public domain.
+See the UNLICENSE file, or http://unlicense.org/
+
+Output for these problems can be found at:
+https://sites.google.com/site/robertharamoto/Home/programming/project-euler-solutions/problems-0001-to-0100/problems-0071---0080
+
+See also:
+
+http://www.gnu.org/software/guile/
+http://en.wikipedia.org/wiki/Scheme_(programming_language)
